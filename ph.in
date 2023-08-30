@@ -1,0 +1,8 @@
+Phonons at Gamma
+ &inputph
+  prefix = 'm2m',
+  tr2_ph = 1.0d-14,
+  outdir = './out'
+  fildyn = 'm2m.dyn',
+ /
+ 0.0  0.0  0.0
